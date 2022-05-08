@@ -17,7 +17,7 @@ Or, sur celui qui nous est fourni, on voit bien qu'il y a une anomalie car ces 3
 
 Il suffit donc de restaurer ce QR code de cette manière :
 
-![Flag](./img/flag_restored.png)
+![Flag](./solve/flag_restored.png)
 
 Pour cela, vous pouvez utiliser un outil comme... Paint ! Rien que ça.
 Ceci étant fait, on est bien capable de lire le QR Code contenant le flag.

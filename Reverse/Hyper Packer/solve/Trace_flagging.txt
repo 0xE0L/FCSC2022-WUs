@@ -1,0 +1,309 @@
+[x] Opening connection to challenges.france-cybersecurity-challenge.fr on port 2202
+[x] Opening connection to challenges.france-cybersecurity-challenge.fr on port 2202: Trying 141.95.173.216
+[+] Opening connection to challenges.france-cybersecurity-challenge.fr on port 2202: Done
+[*] Solving PoW
+[+] Solved PoW: 1:26:220507:cee288d81be3aebb::g2fGPaVFsbvNhvyk:0e5QK
+[+] Binary written at /tmp/hyperpacker1.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00C\x01\x05\x10@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+[*] Number of possible keys: 256
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+[+] Unpacked binary extracted to /tmp/unpacked1.exe
+[\o/] Found secret: KZ374EGJM08S3T5SD92LCLNVKB76RCL5
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker2.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00\x00\x00\x00\x00\x01`\t\x00\x01\x86\x04\x00\x00\x00'
+[*] Number of possible keys: 1024
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x00\x00\x00\x00\x00`\x00\x00\x01\x00\x04\x00\x00\x00'
+[+] Unpacked binary extracted to /tmp/unpacked2.exe
+[\o/] Found secret: RB6LZ5BGY508BXH7M06RXUJ1S2KU4Y46
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker3.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00\x00\x00\x00\x00\x00r-\x02\x000F\x8c\x00\x00'
+[*] Number of possible keys: 131072
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x00\x00\x00\x00\x00"\x01\x00\x00 \x06\x80\x00\x00'
+[+] Unpacked binary extracted to /tmp/unpacked3.exe
+[\o/] Found secret: 2GF7EBBQKB3HWQCNYHMNW23UYSIKXWF0
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker4.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00\x00\x00\x00D\x00\t\x00\x00\x00\x00\x00\x00\x00\x00'
+[*] Number of possible keys: 16
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x00\x00\x00D\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+[+] Unpacked binary extracted to /tmp/unpacked4.exe
+[\o/] Found secret: UF8V145GYVA3I2M0HRSGHE6O2LQ3A6VY
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker5.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00\x00\x00\x00\x00\x00\xe0\x01\x00\x024 \xa1\x00\x00'
+[*] Number of possible keys: 4096
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x020 \x80\x00\x00'
+[+] Unpacked binary extracted to /tmp/unpacked5.exe
+[\o/] Found secret: DOTJSKKA3CL1YA4R8QWROENZ5WX7PQIQ
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker6.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00\x00\x00\x00\x00\x00\x10X\x82\x00@2*B\x88'
+[*] Number of possible keys: 131072
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x00\x00\x00\x00\x00\x00X\x00\x00@\x02"@\x88'
+[+] Unpacked binary extracted to /tmp/unpacked6.exe
+[\o/] Found secret: U4BSCHD4RW0K36WL9PWYQC36J28KH16U
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker7.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00%\xc4\x00\x80\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+[*] Number of possible keys: 128
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x04@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+[+] Unpacked binary extracted to /tmp/unpacked7.exe
+[\o/] Found secret: 72LC4KFND0WDANSHIF0MG4SJFZ8VJJGX
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker8.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x86c\x00\xc0X\x00'
+[*] Number of possible keys: 8192
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x04c\x00@\x00\x00'
+[+] Unpacked binary extracted to /tmp/unpacked8.exe
+[\o/] Found secret: 3PQD184FNDUQ2LO2BDHYIMD932KTXKX5
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker9.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00\x00\x00\x00\x008\x00\x91\x1a\x00\x10@A(\x00'
+[*] Number of possible keys: 32768
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x00\x00\x00\x00\x00\x00\x10\x02\x00\x00\x00\x01 \x00'
+[+] Unpacked binary extracted to /tmp/unpacked9.exe
+[\o/] Found secret: CY3VXUM2ZECC4Y27GVLR930OHV9HS2N7
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker10.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00\x00\x00DTP\xa4\x00\x00\x00\x00\x00\x00\x00\x00'
+[*] Number of possible keys: 1024
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x00\x00\x04\x14\x00 \x00\x00\x00\x00\x00\x00\x00\x00'
+[+] Unpacked binary extracted to /tmp/unpacked10.exe
+[\o/] Found secret: K8MTQB725RWRLSSUD98Q2EKE9F7L3NMN
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker11.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x1br\x16\x00\x00U\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+[*] Number of possible keys: 32768
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\n"\x02\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+[+] Unpacked binary extracted to /tmp/unpacked11.exe
+[\o/] Found secret: M910LRKXGV4TTTO2D24E1V4YD1OEK0GJ
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker12.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00\x00\x00\x00\xac\x08\x040-\x00\x08\xa2\x00\x00\x00'
+[*] Number of possible keys: 65536
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x00\x00\x00\x00\x08\x04\x00 \x00\x00\xa0\x00\x00\x00'
+[+] Unpacked binary extracted to /tmp/unpacked12.exe
+[\o/] Found secret: I0P2FHCOPBZHI34NRCQZ4OO9N4M3CL1W
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker13.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00\x00\x00\x12\x02\x12\x02`\x00\x00\x00\x00\x00\x00\x00'
+[*] Number of possible keys: 256
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x00\x00\x00\x00\x12\x02 \x00\x00\x00\x00\x00\x00\x00'
+[+] Unpacked binary extracted to /tmp/unpacked13.exe
+[\o/] Found secret: IWLB9NQUWZHBQZUWWUJXGT1V89Z9PUDN
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker14.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00\x00Q2\x08\x01\x00\x14\xc6\x00\x00\x00\x00\x00\x00'
+[*] Number of possible keys: 16384
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x00A \x00\x01\x00\x10\xc0\x00\x00\x00\x00\x00\x00'
+[+] Unpacked binary extracted to /tmp/unpacked14.exe
+[\o/] Found secret: AFCL580WODJI5Q9B8H104ZBPZ7V0OSHJ
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker15.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00\x00\x00\x00\x00\x00B\x81\x02\xe2\x00i\x00\\\x00'
+[*] Number of possible keys: 131072
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x00\x00\x00\x00\x00@\x80\x00\x00\x00A\x00\x10\x00'
+[+] Unpacked binary extracted to /tmp/unpacked15.exe
+[\o/] Found secret: R1LV1RSH9OXF61EC81OUZUSRSB22JTSS
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker16.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00\x00H\x00\x11\x00\xa0\x00\x00\x00\x00\x00\x00\x00\x00'
+[*] Number of possible keys: 64
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x00H\x00\x11\x00\x80\x00\x00\x00\x00\x00\x00\x00\x00'
+[+] Unpacked binary extracted to /tmp/unpacked16.exe
+[\o/] Found secret: CRFX0O4DV8JW8RZWMIGXEHCB23MFW3C9
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker17.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00\x00\x00\x00\x01\xa20\x02\x00U\x00\x00\x00\x00\x00'
+[*] Number of possible keys: 2048
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x00\x00\x00\x00\xa20\x00\x00U\x00\x00\x00\x00\x00'
+[+] Unpacked binary extracted to /tmp/unpacked17.exe
+[\o/] Found secret: AYYI3O81S8342RBCPBQSEDAW8RSUKGOB
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker18.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00\x87\x80L\x02N8\x10\x00\x00\x00\x00\x00\x00\x00'
+[*] Number of possible keys: 131072
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x83\x80D\x02L\x10\x10\x00\x00\x00\x00\x00\x00\x00'
+[+] Unpacked binary extracted to /tmp/unpacked18.exe
+[\o/] Found secret: WZ8PNHQ9NODZV5UTE62IP9LI5XNFIG73
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker19.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00\x00\x00\x00\x00\x00\x00!\x00\x00\x00\x00\x00\x00\x00'
+[*] Number of possible keys: 4
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x00\x00\x00\x00\x00\x00 \x00\x00\x00\x00\x00\x00\x00'
+[+] Unpacked binary extracted to /tmp/unpacked19.exe
+[\o/] Found secret: 5VMB3TRDJZF15PRI4RCIEGZ4NRWTI57U
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker20.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00\x00\x00P\x98a\x80`\x00\x00\x00\x00\x00\x00\x00'
+[*] Number of possible keys: 2048
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x00\x00\x10\x90 \x80`\x00\x00\x00\x00\x00\x00\x00'
+[+] Unpacked binary extracted to /tmp/unpacked20.exe
+[\o/] Found secret: FT5ECJ71GRWXDM0LKOU3YZBQXUV7DSBX
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker21.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00\x00\x00\x00h\xc90\x02\x9cB \x00\x00\x00\x00'
+[*] Number of possible keys: 131072
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x00\x00\x00(\xc9\x10\x00\x88\x00 \x00\x00\x00\x00'
+[+] Unpacked binary extracted to /tmp/unpacked21.exe
+[\o/] Found secret: 1M3VD74D5L94RHPPNNYVCW5YZN2SFZ3G
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker22.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00h\x00\x00\x00\x00'
+[*] Number of possible keys: 32
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00@\x00\x00\x00\x00'
+[+] Unpacked binary extracted to /tmp/unpacked22.exe
+[\o/] Found secret: FFCKSMU9ISNJMQ3UKM2C0JZAPEPZTFF7
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker23.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x88\x00P\r\x85\x02\x00'
+[*] Number of possible keys: 2048
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x10\x0c\x04\x00\x00'
+[+] Unpacked binary extracted to /tmp/unpacked23.exe
+[\o/] Found secret: 9HNTHB2VUD4YUK5BS17NV4N3YZDANF9L
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker24.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x0c (\x94\x020\xc6\x00\x00\x00\x00\x00\x00\x00\x00'
+[*] Number of possible keys: 32768
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x04 (\x94\x00 \x86\x00\x00\x00\x00\x00\x00\x00\x00'
+[+] Unpacked binary extracted to /tmp/unpacked24.exe
+[\o/] Found secret: RNWSM0R58NM0RJFACAC1PJLBC3DX4BS0
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker25.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x13\x14\x00\xe0\x00\x00'
+[*] Number of possible keys: 512
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x80\x00\x00'
+[+] Unpacked binary extracted to /tmp/unpacked25.exe
+[\o/] Found secret: AA1EVRH10DHAVJ9HPIC1ITNTQTPXDU2P
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker26.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00\x00\x00\x00\x00\x00\x00\x00$H\x00\x00\x010\x02'
+[*] Number of possible keys: 256
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x00\x00\x00\x00\x00\x00\x00$@\x00\x00\x000\x02'
+[+] Unpacked binary extracted to /tmp/unpacked26.exe
+[\o/] Found secret: L5GZCWP20VYE81DSM35W71Z1QPQLNTAN
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker27.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00\x00\x04\x8d\x11\xa4\x001\x10T\x00\x00\x00\x00\x00'
+[*] Number of possible keys: 131072
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x00\x04\x8d\x11\xa4\x00\x10\x00\x04\x00\x00\x00\x00\x00'
+[+] Unpacked binary extracted to /tmp/unpacked27.exe
+[\o/] Found secret: DC49CJ7J7IMOH87SP1C1FIIH0ZELAHLO
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker28.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00\x08\x04@`\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+[*] Number of possible keys: 32
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x08\x04@@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+[+] Unpacked binary extracted to /tmp/unpacked28.exe
+[\o/] Found secret: KH2YDE5OL3YTXYFEJ0O40FE4TBLSUT1I
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker29.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00\x00\x00\x00\x00\x00\x00\x00 \x00r\xb8c\x10\x00'
+[*] Number of possible keys: 16384
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00`\x18\x02\x00\x00'
+[+] Unpacked binary extracted to /tmp/unpacked29.exe
+[\o/] Found secret: AGJCMQK13FBXX4NLMXRA4S4QQ6PH7FF5
+b'Well done!\n'
+b'Here is your binary:\n'
+[+] Binary written at /tmp/hyperpacker30.exe
+b'Please input the secret within 60 seconds:\n'
+IV: b'\x00\x00\x00\x00\x00\xa5\x00\x01\x00\x00\xaa\xa2-\x00\x00\x00'
+[*] Number of possible keys: 65536
+[+] Successfully decrypted the packed MZ-PE!
+[+] Correct key was b'\x00\x00\x00\x00\x00\xa0\x00\x00\x00\x00"\xa2!\x00\x00\x00'
+[+] Unpacked binary extracted to /tmp/unpacked30.exe
+[\o/] Found secret: 87T665NDNKF3DLTITNW4YN2G1BPT4J2Y
+b'Well done!\n'
+Flag is: b'Congratulations! Here is your flag: FCSC{2b60aef3d241d3c37c30373a9a4446017a6d5b6761ae5492e3f824e280cb8ceb}\n'
+[*] Closed connection to challenges.france-cybersecurity-challenge.fr port 2202
+
+
+--> Flag: FCSC{2b60aef3d241d3c37c30373a9a4446017a6d5b6761ae5492e3f824e280cb8ceb}

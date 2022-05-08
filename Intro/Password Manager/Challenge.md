@@ -10,7 +10,7 @@ Heureusement, avant de me faire déconnecter du serveur j'ai réussi à lancer G
 
 # Solution
 
-En faisant un "disas main" dans gdb, on voit ceci :
+En faisant un `disas main` dans gdb, on voit ceci :
 
 ```
 Dump of assembler code for function main:
