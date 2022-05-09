@@ -123,11 +123,12 @@ A la fin de main(), on voit qu'une comparaison est faite entre :
 - Les DWORDs de LocDword1, qui sont parcourus dans l'ordre.
 - Les DWORDs de LocDword2, qui sont parcourus dans l'ordre inverse !
 
-Formulé autrement, pour que le programme nous affiche qu'on a trouvé le bon flag, il faut que le premier DWORD de LocDword1 soit égal au dernier DWORD de LocDword2 ; que le second DWORD de LocDword1 soit égal à l'avant-dernier de LocDword2 ; etc.
+Formulé autrement, pour que le programme nous affiche qu'on a trouvé le bon flag, il faut que le premier DWORD de LocDword1 (post call) soit égal au dernier DWORD de LocDword2 (post call) ; que le second DWORD de LocDword1 soit égal à l'avant-dernier de LocDword2 ; etc.
 
 Maintenant, chose très intéressante : on constate effectivement que le LocDword2 post call à sub_1316(), si on lit les DWORD dans le sens inverse, est très similaire au LocDword1 post-sub_1316() (si on le lit dans l'ordre).
 
-Pour donner un exemple, le dernier dword de LocDword2 (post appel à la fonction) est 0xfff1134b, il est très proche du premier dword de LocDword1 (post appel à la fonction) qui est 0xfff11378
+Pour donner un exemple, le dernier dword de LocDword2 (post appel à la fonction) est 0xfff1134b, il est très proche du premier dword de LocDword1 (post appel à la fonction) qui est 0xfff11378.
+
 Si on avait trouvé le bon caractère, le 1er dword de LocDword1 aurait dû être égal au dernier de LocDword2 en fait (soit 0xfff1134b).
 
 ==> Justement, on va maintenant s'attacher à trouver les bons caractères :)
@@ -148,6 +149,6 @@ Maintenant, j'automatise ce que je viens d'expliquer ici pour le faire sur tous 
 Le script me renvoie finalement : <CSC{665cfa3e0277a889258cc9f6e24c88fc9db654178558de101b8a19af8fb00575}
 
 Le 1er caractère est mauvais, un '<' au lieu d'un 'F', tout simplement à cause de ce que j'ai expliqué au début : le tout premier DWORD a juste été additionné par la valeur 10 ('\n') alors qu'il n'aurait pas fallu qu'il le soit.
-Si on fait, dans Python, "chr(ord('<') + 10)" --> on obtient en effet 'F' !
+Si on fait, dans Python, `chr(ord('<') + 10)` --> on obtient en effet 'F' !
 
 Bref, le flag est donc : FCSC{665cfa3e0277a889258cc9f6e24c88fc9db654178558de101b8a19af8fb00575} !

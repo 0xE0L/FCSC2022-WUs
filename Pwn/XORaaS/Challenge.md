@@ -55,8 +55,8 @@ Pour générer les 0x0 qui suivent, il suffit de XORer n'importe quel caractère
 
 On a dit qu'on souhaitait écrire 0x0000000000401146, mais il faut l'écrire en little-endian...
 Donc en xorant ces deux strings :
-str1: aaaaaaaa
-str2: 'p!aaaaa
+- str1: aaaaaaaa
+- str2: 'p!aaaaa
 On obtient bien (à l'envers) 0x4611400000000000 !
 
 Bien sûr, il suffit ensuite de padder tout le reste avec n'importe quoi, des 'AAAA' comme d'habitude par exemple.
